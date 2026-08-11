@@ -1,4 +1,10 @@
 <div align="center">
+  <p><i>Starting with the name of Allah Almighty, the Most Gracious, the Most Merciful</i></p>
+</div>
+
+---
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=1A6BFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mohsin+Ghaffar;Software+Engineer;Python+Developer;AI+%26+ML+Enthusiast;Vibe+Coder+%E2%9A%A1" alt="Typing SVG" />
 </div>
 
@@ -77,5 +83,5 @@
 ---
 
 <div align="center">
-  <i>⚡ "Turning chai and ideas into working software, one commit at a time." ⚡</i>
+  <i>⚡ "And say: My Lord, increase me in knowledge." — Surah Ta-Ha 20:114" ⚡</i>
 </div>
